@@ -1,4 +1,4 @@
-![logo](https://github.com/sur-glitch/sur-glitch/blob/main/3981-TW-Blog-Why-Hire-a-DevOps-engineer_BLOG-HEADER-1920x629-v1.png)
+
 ### Hi there 👋
 
 <!--
